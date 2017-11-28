@@ -1,0 +1,26 @@
+img {
+  max-width: 180px;
+  max-height: 180px;
+  border-radius: 50%;
+  border: 1px solid #B0CFE0;
+  display: block;
+}
+.contact {
+  margin: 10px;
+  margin-left: 20px;
+  border: 3px solid #B0CFE0;
+  width: 400px;
+  height: 250px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.contactInfo {
+  font-weight: bold;
+  font-size: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+.primaryHeader {
+    background: #39C2D7;    
+    height: 80px;
+}
+
+.title {
+    text-align: center;
+    line-height: 80px;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}

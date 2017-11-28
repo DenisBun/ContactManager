@@ -1,0 +1,28 @@
+.fieldStyle{
+    box-sizing: border-box; 
+    padding: 8px;
+    outline: none;
+    border: 3px solid #B0CFE0;
+    margin-left: 20px;
+    width: 250px;
+}
+.field-style:focus{
+    box-shadow: 0 0 5px #B0CFE0;
+    border:1px solid #B0CFE0;
+}
+
+.greenBtn {
+    color: #A3C644;
+    margin: 0 10px;    
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+}
